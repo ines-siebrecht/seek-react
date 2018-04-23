@@ -1,0 +1,6 @@
+.Cards {
+    height: 450px;
+    box-sizing: border-box;
+    margin: 20px;
+    overflow: hidden;
+}

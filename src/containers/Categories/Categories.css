@@ -1,0 +1,28 @@
+.Categories {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.CategoryList {
+    width: 80%;
+    margin: 20px;
+}
+
+.AddCategory {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 2px solid #1abc9c;
+    border-radius: 30px;
+    margin: 20px auto;
+    color: #1abc9c;
+    cursor: pointer;
+}
+
+.AddCategory:hover {
+    background-color: #1abc9c;
+    color: #fff;
+}
